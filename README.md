@@ -1,5 +1,5 @@
-## Array Calculator & Parser
-This is a parser which can parse expressions like [1,2,3] + [1,1,1] to return the corresponding expression trees. Built using expression trees on Haskell, this was made in an effort to use functional programming for a practical purpose.
+## Array Calculator & Parser in Haskell
+This is a parser which can parse expressions like `[1,2,3] + [1,1,1]` to return the corresponding expression trees and the answer `[2,3,4]`. Built using expression trees on Haskell, this was made in an effort to use functional programming for a practical purpose.
 
 #### How to run
 - Make sure you have GHCI installed.
